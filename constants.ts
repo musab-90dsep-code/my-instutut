@@ -145,7 +145,7 @@ export const CONTENT = {
         level: 'Beginner',
         duration: '3-6 Months',
         iconName: 'BookOpen',
-        image: '/image1.jpg', // Open Quran, clear text
+        image: './image1.jpg', // Open Quran, clear text
       },
       {
         id: 'c2',
@@ -154,7 +154,7 @@ export const CONTENT = {
         level: 'Intermediate',
         duration: '6-12 Months',
         iconName: 'Mic',
-        image: '/image2.jpg', // Quran on Rehal
+        image: './image2.jpg', // Quran on Rehal
       },
       {
         id: 'c3',
